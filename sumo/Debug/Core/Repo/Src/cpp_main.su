@@ -1,0 +1,3 @@
+../Core/Repo/Src/cpp_main.cpp:49:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
+../Core/Repo/Src/cpp_main.cpp:63:6:void EstopEngaged()	4	static
+../Core/Repo/Src/cpp_main.cpp:76:6:void main_cpp_loop()	848	static

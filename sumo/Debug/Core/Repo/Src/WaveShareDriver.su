@@ -1,0 +1,13 @@
+../Core/Repo/Src/WaveShareDriver.cpp:53:1:WaveShare::WaveShare(SPI_HandleTypeDef*)	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:61:6:void WaveShare::sendCommand(uint8_t)	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:72:6:void WaveShare::sendData_byte(uint8_t)	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:83:6:void WaveShare::sendData_word(uint16_t)	24	static
+../Core/Repo/Src/WaveShareDriver.cpp:97:6:void WaveShare::resetDisplay()	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:106:6:void WaveShare::initDisplay()	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:215:6:void WaveShare::setCursorLocation(uint8_t, uint8_t, uint8_t, uint8_t)	16	static
+../Core/Repo/Src/WaveShareDriver.cpp:233:6:void WaveShare::fillScreen(uint16_t)	32	static
+../Core/Repo/Src/WaveShareDriver.cpp:246:6:void WaveShare::setPixel(uint16_t, uint16_t, uint16_t)	32	static
+../Core/Repo/Src/WaveShareDriver.cpp:253:6:void WaveShare::drawString(uint8_t, uint8_t, const char*, uint16_t, uint8_t)	40	static
+../Core/Repo/Src/WaveShareDriver.cpp:295:6:void WaveShare::drawCharacter(uint8_t, uint8_t, char, uint16_t, uint8_t)	32	static
+../Core/Repo/Src/WaveShareDriver.cpp:352:6:void WaveShare::drawLine(uint8_t, uint8_t, uint8_t, uint8_t, uint16_t)	40	static
+../Core/Repo/Src/WaveShareDriver.cpp:392:6:void WaveShare::showScreen(Screen, uint8_t)	24	static

@@ -1,0 +1,2 @@
+../Core/Repo/Src/ESC_Driver.cpp:20:1:BLDC_ESC::BLDC_ESC(TIM_TypeDef*, uint8_t)	24	static
+../Core/Repo/Src/ESC_Driver.cpp:34:6:void BLDC_ESC::speed_control(uint32_t)	16	static

@@ -1,0 +1,10 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:6902:22:void LL_ADC_Enable(ADC_TypeDef*)	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:7037:22:void LL_ADC_REG_StartConversion(ADC_TypeDef*)	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:7057:22:void LL_ADC_REG_StopConversion(ADC_TypeDef*)	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:7073:26:uint32_t LL_ADC_REG_IsConversionOngoing(const ADC_TypeDef*)	2
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:7084:26:uint32_t LL_ADC_REG_IsStopConversionOngoing(const ADC_TypeDef*)	2
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_adc.h:7113:26:uint16_t LL_ADC_REG_ReadConversionData16(const ADC_TypeDef*)	1
+../Core/Repo/Src/btn_matrix.cpp:13:1:btnMat::btnMat()	1
+../Core/Repo/Src/btn_matrix.cpp:23:6:void btnMat::update(uint16_t*)	34
+../Core/Repo/Src/btn_matrix.cpp:53:6:void btnMat::readADC(ADC_TypeDef*, uint16_t*)	4
+../Core/Repo/Src/btn_matrix.cpp:78:6:void btnMat::resetState()	1
